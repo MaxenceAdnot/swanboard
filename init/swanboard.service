@@ -1,0 +1,9 @@
+[Unit]
+Description=swanboard
+
+[Service]
+ExecStart=/usr/local/bin/swanboard
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
