@@ -1,6 +1,9 @@
 Swanboard
 =========
 
+### This project is no longer maintained and present major risks for the security since the dependencies have not been updated
+
+
 A simple dashboard wrapping `ipsec` command provided by StrongSwan.
 
 
